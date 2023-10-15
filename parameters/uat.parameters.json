@@ -3,28 +3,28 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "environmentType": {
-            "value": "nonprod"
+            "value": "prod"
         },
         "postgreSQLServerName": {
-            "value": "hmahmoud-dbsrv-dev"
+            "value": "hmahmoud-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "hmahmoud-db-dev"
+            "value": "hmahmoud-db-uat"
         },
         "appServicePlanName": {
-            "value": "hmahmoud-asp-dev"
+            "value": "hmahmoud-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "hmahmoud-be-dev"
+            "value": "hmahmoud-be-uat"
         },
         "appServiceAppName": {
-            "value": "hmahmoud-fe-dev"
+            "value": "hmahmoud-fe-uat"
         },
         "azureMonitorName": {
-            "value": "hmahmoud-am"
+            "value": "hmahmoud-am-uat"
         },
         "appInsightsName": {
-            "value": "hmahmoud-ai"
+            "value": "hmahmoud-ai-uat"
         },
         "location": {
             "value": "East US 2"
